@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119905524090",
+    "firebase_url": "https://real-time-locator-275218.firebaseio.com",
+    "project_id": "real-time-locator-275218",
+    "storage_bucket": "real-time-locator-275218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119905524090:android:bbcbecb865af0ad69b9ec3",
+        "android_client_info": {
+          "package_name": "com.faisalmirza.realtimelocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119905524090-8jv1ug6nncinh46c1t7i5c6dlr6g7ao6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faisalmirza.realtimelocator",
+            "certificate_hash": "868df1378af617ee9707ca577fc8a50283ab4844"
+          }
+        },
+        {
+          "client_id": "119905524090-o53ejh29e5bfglb7c3mkpr11g9ji7tn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkOc7c6ORftB7EFUNfFMF9jUbWPDhGmgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119905524090-o53ejh29e5bfglb7c3mkpr11g9ji7tn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
